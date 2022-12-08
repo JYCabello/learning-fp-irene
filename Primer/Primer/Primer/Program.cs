@@ -1,5 +1,4 @@
 ﻿using DeFuncto;
-using DeFuncto.Extensions;
 
 public record Fruit(int Weight);
 
